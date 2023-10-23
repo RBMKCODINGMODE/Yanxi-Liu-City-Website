@@ -40,7 +40,7 @@
             color: rgba(0, 110, 255,0.5);
         }
         .titles{
-            font-size: 1.5rem;
+            font-size: 2rem;
             color: aliceblue;
         }
        .ds{
@@ -69,4 +69,7 @@
         background-color: #c7def1;
         color:#224878;
     }
-   
+     .sb{
+        font-size: 1rem;
+        color: #063273;
+     }
