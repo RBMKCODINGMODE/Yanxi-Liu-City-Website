@@ -36,3 +36,7 @@
     text-align: center;
     color: white;
 }
+@media screen and (max-width:768px){
+  .gallery{
+    grid-template-columns: 1fr;
+  }
