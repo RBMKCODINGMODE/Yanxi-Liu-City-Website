@@ -29,7 +29,7 @@
     float:left;
     width:455px;}
 .gallery img {
-    width: 100%;
+    width: auto;
     height: auto;}
 .titles{
     padding: 15px;
